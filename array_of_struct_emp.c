@@ -4,8 +4,8 @@ struct emp
 	int eno;
 	char ename[20],desi[20],dept[20];
 	float salary;
-}e1[20];
-
+}
+e1[20];
 void main()
 {
 	int n,num,i,flag=0,index;
